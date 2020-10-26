@@ -1,0 +1,181 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*Table of Contents
+- General Content
+- Typogrphy
+- Header & Nav
+- Images & Media
+- Footer
+- Media Queries
+*/
+
+
+/* General Content */
+
+.main {
+	padding-top: 3%;
+}
+
+
+.row {
+	padding: 2% 0;
+}
+
+.pink {
+	background-color: #ddb8b6;
+}
+
+header.main_nav {
+	padding: 1% 0;
+	display: block;
+}
+
+body { 
+    animation: fadeInAnimation ease 2s;
+    animation-iteration-count: 1; 
+    animation-fill-mode: forwards; 
+} 
+  
+@keyframes fadeInAnimation { 
+    0% { 
+        opacity: 0; 
+    } 
+    100% { 
+     } 
+} 
+
+.photo {
+	margin-top: 8px;
+	opacity: .6;
+}
+
+/* Typeography */
+
+body {
+	font-family: "Quicksand", sans-serif;
+	font-size: 1.5em;
+	color: #000;
+}
+
+body.pattern {
+	background-image: url(https://images.unsplash.com/photo-1550895030-823330fc2551?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80);
+	opactiy: .8;
+}
+
+
+h2 {
+	font-family: "Alegreya Sans SC", sans-serif;
+	font-size: 2em;
+	margin: 0.67em;
+	color: #ddb8b6;
+
+}
+
+h2.bio {
+	color: white;
+	font-size: 3em;
+}
+
+h2.center {
+	text-align: center;
+}
+
+p {
+	color: #808080;
+}
+
+
+p.bio {
+	color: white;
+}
+
+p.center {
+	text-align: center;
+	font-size: 1.5em;
+}
+
+/* Header & Nav */
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+li {
+	float: left;
+	width: 30%;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-family: "Alegreya Sans SC", sans-serif;
+	font-size: 1.5em;
+}
+
+/* Change the link color to white on hover */
+li a:hover {
+	background-color: #fff;
+	color: #808080;
+}
+
+
+/* Images & Media */
+img {
+	max-width: 100%;
+}
+img.avatar{
+	border: 4px solid white;
+}
+
+img.logo {
+	margin: 5% auto;
+}
+
+img.centered {
+	margin: auto;
+	padding-top: 90px;
+}
+
+img.clip {
+	margin: auto;
+	padding-top: 60px;
+}
+
+img.cards {
+	margins: auto;
+	padding-top: 30px;
+}
+
+img.DW {
+	height: 250px;
+	width: auto;
+}
+
+img:hover{opacity:0.8}
+
+.active {
+text-decoration: underline;
+}
+
+li {
+  border-right: 1px solid #fff;
+}
+
+li:last-child {
+  border-right: none;
+}
+
+/* Footer */
+
+p.footer {
+	text-align: center;
+}
+
+/* Media Queries */
