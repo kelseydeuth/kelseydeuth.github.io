@@ -1,0 +1,62 @@
+/*CSS DOCUMENT*/
+
+
+html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,time, mark, audio, video {margin: 0;	padding: 0;	border: 0;	vertical-align: baseline;} /*My edited version of the Eric Meyer’s reset tool. Feel free to keep it or delete it. */
+
+img {
+    width: 100%; /*Please leave this line.*/
+}
+
+/*By the way, when we use the slash-asterisk combo, it’s a comment on the CSS and it’s meant for human beings. The machine knows it is not supposed to process anything until it finds a asterisk-slash combo that ends the comment on the CSS. */
+
+
+h1 {
+    text-transform: uppercase;
+    padding: .5em;
+    margin: .5em;
+    text-align: center;
+    color: #fff;
+    background-color: #216089;
+}
+
+h2 {
+    text-transform: lowercase;
+    font-style: italic;
+    font-size: 1.2em;
+    text-align: center;
+    font-family: serif;
+    margin: .5em;
+}
+
+figcaption {
+    text-align: center;
+    margin: 1.5em;
+    padding: 2em;
+    border-bottom: 2px solid #216089;
+}
+
+h3 {
+    text-transform: uppercase;
+    padding: 1.5em 0 0;
+    margin: .5em 1em;
+}
+
+li {
+    font-family: serif;
+    margin: 0 2.5em;
+    padding: .8em;
+}
+
+footer {
+    text-align: center;
+    color: #fff;
+    background-color: #216089;
+    padding: 1em;
+    margin: 1em;
+}
+
+.ingredients li {
+    list-style-type: square;
+}
+
+
