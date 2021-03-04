@@ -1,0 +1,65 @@
+<!doctype html>  
+<html>
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" type="text/css" href="https://grc-ribeiro.github.io/files/proposal.css">
+      <title>Kelsey Deuth - Final project proposal</title>
+   </head>
+   <body>
+      <div class="container">
+         <h1>Final project proposal</h1>
+         <h2>Introduction</h2>
+         <p>Rae's Rentals</p>
+         <p>Rae's Rentals is a surf shop in Lahaina, Hawaii, located right on the beach. Our shop rents boards ranging from 5–10 feet in length. Rent a board for as long as you need starting at $20/day, or try one of our guided lessons in Lahaina Reef. In addition, we also provide reef shoes and rash guards free of charge. While you’re in our shop, check out our reef friendly sunscreen, apparel, and grab a fresh fruit smoothie!</p>
+         <h2>Target audience</h2>
+         <p>While Rae’s Rentals has something for everyone, their target market is tourists looking for a beginner surfing experience. Our rental shop is family oriented, and our business model is targeted at groups of friends or families on vacation looking to enjoy an experience together. Our trained instructors and proximity to the Lahaina Reef ensures beginners will be successful in catching their first wave. </p>
+         <p>Our website is beneficial for those planning their trip in advance. It allows users to reserve boards for certain days, book lessons in advance, and pay ahead of time. Since Rae’s Rentals is a small business with a single location, our website allows users to visit our shop without physically being on the island.</p>
+         <h2>Comparative analysis</h2>
+         <h3>808 Boards</h3>
+         <p><a href="https://808boards.com/?gclid=CjwKCAiAp4KCBhB6EiwAxRxbpF5hMmkylbcokDR9QRKKeKarTr_5GEm59y1En_5DChHsB3PVpeQN4BoCEBgQAvD_BwE">808boards.com</a></p>
+         <img src="808boards-1.png" alt="Screenshot of the home page of the 808 Boards website." title=""/>
+         <img src="808boards-2.png" alt="Screenshot of the rentals page of the 808 Boards website." title=""/>
+         <h3>Hulakai Hawaii</h3>
+         <p><a href="https://www.hulakai.com/?gclid=CjwKCAiAp4KCBhB6EiwAxRxbpDkfpWUv9iCGUbPIZDMQuubObI58UeByVQliZbOY5XosnR0GCm3vmBoCNOcQAvD_BwE">hulakai.com</a></p>
+         <img src="hulakai-1.png" alt="Screenshot of the home page of the Hulakai website." title=""/>
+         <img src="hulakai-2.png" alt="Screenshot of the rentals page of the Hulakai website." title="" />
+         <h3>Seaside Surf Shop</h3>
+         <p><a href="https://www.seasidesurfshop.com/#">seasidesurfshop.com</a></p>
+         <img src="seasidesurfshop-1.png" alt="Screenshot of the home page of the Seaside Surf Shop website." title="" />
+         <img src="seasidesurfshop-2.png" alt="Screenshot of the surf page of the Seaside Surf Shop website." title="" />
+         <h2>Website content</h2>
+         <nav>
+            <ul>
+               <li>Home</li>
+               <li>Rentals</li>
+               <li>Lessons</li>
+            </ul>
+         </nav>
+         <section>
+            <h1>Home</h1>
+            <p>Rae's Rentals is a surf shop in Lahaina, Hawaii. We rent surfboards starting at $20/day, and offer guided lessons for all skill levels in Lahaina Reef. In addition, we also provide reef shoes and rash guards free of charge. While you’re in our shop, check out our reef friendly sunscreen, apparel, and grab a fresh fruit smoothie! Rae's Rentals is located at Lahaina Harbor (which is right next to the landmark Banyan Tree Square), and open everyday 6am–3pm. Get in touch: 808-619-4284, or email us at rae@surf.com</p>
+            <p>Photo of Rae's Rentals exterior with the beach in the background</p>
+         </section>
+         <section>
+            <h1>Rentals</h1>
+            <p>We are proud to offer a variety of rental options for all skill levels. To ensure availability, we recommend reserving your rental at least one week in advance. If you are interested in purchasing a surf lesson, we will provide you with a board. No need to reserve one here! Feel free to call our store with any questions. </p>
+            <p>Multiple images of surf board availible for rent, along with their coorsponding prices per day and per week</p>
+         </section>
+         <section>
+            <h1>Lessons</h1>
+            <p>We cannot wait for you to catch a wave in the beautiful Lahaina Reef. Please review and submit this form. We will be in touch with you shortly. 
+            <li>Full Name:</li>
+            <li>Phone:</li>
+            <li>Email:</li>
+            <li>Date of Rental:</li>
+            <li>Lesson Type:</li>
+            <li>Number of Students:</li>
+            <li>Height and Weight:</li>
+            <li>Additional Comments:</li>
+            </p>
+            <p>Photo of instructor teaching a student to surf in Lahaina Reef</p>
+         </section>
+      </div>
+   </body>
+</html>
