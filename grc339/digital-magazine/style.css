@@ -1,0 +1,81 @@
+/*CSS document*/
+
+body {
+	font-family: eb-garamond,serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+h1 {
+	max-width: 8em;
+	margin: auto;
+}
+
+h3 {
+	text-align: center;
+	font-size: 1.5em;
+	color: #8C5E58;
+	text-transform: lowercase;
+}
+
+h2, h3, h4, nav {
+	font-family: minerva-modern,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+nav {
+	background-color: #8C5E58;
+}
+
+div.container {
+    max-width: 40em;
+    margin: auto;
+}
+
+figure {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
+
+ul {
+	text-decoration: none;
+    list-style-type: none;
+    padding: .6em;
+	text-align: center;
+}
+
+ul li {
+	text-transform: lowercase;
+	color: #fff;
+	margin: 1em;
+	display: inline-block;
+}
+
+nav a { /*just nav text is colored here, not all anchor elements*/
+	color: #FFD6C0;
+}
+
+a {
+	text-decoration: none;
+	color: #191102;
+}
+
+.storyWithImage {
+	border: thin solid #6C969D;
+	margin: 2em;
+	padding: 2em;
+}
+
+.storyWithoutImage {
+	border: thin solid #6C969D;
+	margin: 2em;
+	padding: 2em;
+}
+
+footer {
+	text-align: center;
+}
